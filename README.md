@@ -1,4 +1,7 @@
 # BookApi
 
-# Running
+# Getting started
+```
+npm install
 gulp
+```
